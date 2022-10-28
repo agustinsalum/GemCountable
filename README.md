@@ -1,6 +1,6 @@
 # GemCountable
 
-Permite que cualquier clase cuente la cantidad de veces que los metodos de instancia definidos en ella es invocado
+Permite que cualquier clase cuente la cantidad de veces que los metodos de instancia definidos en ella es invocada
 
 ## Installation
 
