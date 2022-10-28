@@ -1,8 +1,6 @@
 # GemCountable
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/GemCountable`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Permite que cualquier clase cuente la cantidad de veces que los metodos de instancia definidos en ella es invocado
 
 ## Installation
 
@@ -20,20 +18,16 @@ Or install it yourself as:
 
     $ gem install GemCountable
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Development
 
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+Después de verificar el repositorio, ejecute `bin/setup` para instalar las dependencias. También puede ejecutar `bin/console` para obtener un aviso interactivo que le permitirá experimentar.
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+Para instalar esta gema en su máquina local, ejecute `bundle exec rake install`. Para lanzar una nueva versión, actualice el número de versión en `version.rb`, y luego ejecute `bundle exec rake release`, que creará una etiqueta git para la versión, presione las confirmaciones de git y la etiqueta creada, y presione `. gem` a [rubygems.org](https://rubygems.org).
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/GemCountable.
+Los informes de errores y las solicitudes de incorporación de cambios son bienvenidos en GitHub en https://github.com/agustinsalum/GemCountable.
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+La gema está disponible como código abierto según los términos de la [MIT License](https://opensource.org/licenses/MIT).
