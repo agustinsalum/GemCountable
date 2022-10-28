@@ -4,17 +4,17 @@ Permite que cualquier clase cuente la cantidad de veces que los metodos de insta
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Agregue esta línea al Gemfile de su aplicación:
 
 ```ruby
 gem 'GemCountable'
 ```
 
-And then execute:
+Y luego ejecutar:
 
     $ bundle install
 
-Or install it yourself as:
+O instálelo usted mismo como:
 
     $ gem install GemCountable
 
